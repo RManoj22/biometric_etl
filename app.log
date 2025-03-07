@@ -1,0 +1,291 @@
+2025-03-06 17:59:07,684 - INFO - Application started. Fetching data for 2025-03-06
+2025-03-06 17:59:07,849 - INFO - Connected to MSSQL successfully.
+2025-03-06 17:59:09,514 - INFO - Connected to PostgreSQL successfully.
+2025-03-06 17:59:09,514 - INFO - Querying MSSQL for employee login data on 2025-03-06
+2025-03-06 17:59:09,514 - INFO - Executing MSSQL query for date: 2025-03-06
+2025-03-06 17:59:09,524 - INFO - Query executed successfully. Retrieved 54 rows.
+2025-03-06 17:59:09,527 - INFO - MSSQL database connection closed.
+2025-03-06 17:59:09,531 - INFO - Successfully retrieved 54 records for dates: 2025-03-06
+2025-03-06 17:59:09,540 - INFO - Query result:
+[{'Date': '2025-03-06', 'EmpId': 1, 'HoursWorked': 0.0, 'Name': 'JAGADESH'},
+ {'Date': '2025-03-06', 'EmpId': 2, 'HoursWorked': 0.0, 'Name': 'SURESH'},
+ {'Date': '2025-03-06', 'EmpId': 3, 'HoursWorked': 0.0, 'Name': 'MANOJ'},
+ {'Date': '2025-03-06',
+  'EmpId': 4,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 1111'},
+ {'Date': '2025-03-06', 'EmpId': 5, 'HoursWorked': 0.0, 'Name': 'PREM ANAND'},
+ {'Date': '2025-03-06', 'EmpId': 6, 'HoursWorked': 0.0, 'Name': 'VEERASENAN'},
+ {'Date': '2025-03-06', 'EmpId': 7, 'HoursWorked': 0.0, 'Name': 'ISAAC RAJ'},
+ {'Date': '2025-03-06', 'EmpId': 8, 'HoursWorked': 0.0, 'Name': 'GOPINATH'},
+ {'Date': '2025-03-06', 'EmpId': 9, 'HoursWorked': 0.0, 'Name': 'GANESAN'},
+ {'Date': '2025-03-06', 'EmpId': 10, 'HoursWorked': 0.0, 'Name': 'MANIVEL'},
+ {'Date': '2025-03-06', 'EmpId': 11, 'HoursWorked': 0.0, 'Name': 'RAM KUMAR'},
+ {'Date': '2025-03-06',
+  'EmpId': 12,
+  'HoursWorked': 0.0,
+  'Name': 'RANJITH KUMAR'},
+ {'Date': '2025-03-06', 'EmpId': 13, 'HoursWorked': 0.0, 'Name': 'KESHIKA'},
+ {'Date': '2025-03-06', 'EmpId': 14, 'HoursWorked': 0.0, 'Name': 'RAMESHVAR'},
+ {'Date': '2025-03-06',
+  'EmpId': 15,
+  'HoursWorked': 0.0,
+  'Name': 'VIPIN XAVIER'},
+ {'Date': '2025-03-06', 'EmpId': 16, 'HoursWorked': 0.0, 'Name': 'DINESH'},
+ {'Date': '2025-03-06', 'EmpId': 17, 'HoursWorked': 0.0, 'Name': 'VASANTH'},
+ {'Date': '2025-03-06', 'EmpId': 18, 'HoursWorked': 0.0, 'Name': 'RUTHRA'},
+ {'Date': '2025-03-06',
+  'EmpId': 19,
+  'HoursWorked': 0.0,
+  'Name': 'RAAM VIGNESH'},
+ {'Date': '2025-03-06', 'EmpId': 20, 'HoursWorked': 0.0, 'Name': 'YUVARAJ'},
+ {'Date': '2025-03-06', 'EmpId': 21, 'HoursWorked': 0.0, 'Name': 'ROJAMANI'},
+ {'Date': '2025-03-06', 'EmpId': 22, 'HoursWorked': 0.0, 'Name': 'BRINDHA'},
+ {'Date': '2025-03-06', 'EmpId': 23, 'HoursWorked': 0.0, 'Name': 'KOUSHIK'},
+ {'Date': '2025-03-06', 'EmpId': 24, 'HoursWorked': 0.0, 'Name': 'GEETHA'},
+ {'Date': '2025-03-06', 'EmpId': 25, 'HoursWorked': 0.0, 'Name': 'AATHIRA'},
+ {'Date': '2025-03-06', 'EmpId': 26, 'HoursWorked': 0.0, 'Name': 'NIVETHITHA'},
+ {'Date': '2025-03-06', 'EmpId': 27, 'HoursWorked': 0.0, 'Name': 'ADHVYTHAA'},
+ {'Date': '2025-03-06', 'EmpId': 28, 'HoursWorked': 0.0, 'Name': 'REMYA'},
+ {'Date': '2025-03-06',
+  'EmpId': 29,
+  'HoursWorked': 0.0,
+  'Name': 'DEEPAK TRAINNIG'},
+ {'Date': '2025-03-06',
+  'EmpId': 30,
+  'HoursWorked': 0.0,
+  'Name': 'MOHANPRASATH TRAINING'},
+ {'Date': '2025-03-06',
+  'EmpId': 31,
+  'HoursWorked': 0.0,
+  'Name': 'SARAVANAN PRABHU'},
+ {'Date': '2025-03-06', 'EmpId': 32, 'HoursWorked': 0.0, 'Name': 'BABI'},
+ {'Date': '2025-03-06', 'EmpId': 33, 'HoursWorked': 0.0, 'Name': 'JAYABABL'},
+ {'Date': '2025-03-06',
+  'EmpId': 34,
+  'HoursWorked': 0.0,
+  'Name': 'MOHAN RAJ TRAINING'},
+ {'Date': '2025-03-06',
+  'EmpId': 35,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0500'},
+ {'Date': '2025-03-06', 'EmpId': 36, 'HoursWorked': 0.0, 'Name': 'YOGESH'},
+ {'Date': '2025-03-06',
+  'EmpId': 37,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0034'},
+ {'Date': '2025-03-06',
+  'EmpId': 38,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0035'},
+ {'Date': '2025-03-06',
+  'EmpId': 39,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0036'},
+ {'Date': '2025-03-06',
+  'EmpId': 40,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0037'},
+ {'Date': '2025-03-06',
+  'EmpId': 41,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0038'},
+ {'Date': '2025-03-06',
+  'EmpId': 42,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0039'},
+ {'Date': '2025-03-06',
+  'EmpId': 43,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0040'},
+ {'Date': '2025-03-06',
+  'EmpId': 44,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0041'},
+ {'Date': '2025-03-06',
+  'EmpId': 45,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0042'},
+ {'Date': '2025-03-06',
+  'EmpId': 46,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0043'},
+ {'Date': '2025-03-06',
+  'EmpId': 47,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0044'},
+ {'Date': '2025-03-06', 'EmpId': 48, 'HoursWorked': 0.0, 'Name': 'ARAVIND'},
+ {'Date': '2025-03-06',
+  'EmpId': 49,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0046'},
+ {'Date': '2025-03-06',
+  'EmpId': 50,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0047'},
+ {'Date': '2025-03-06',
+  'EmpId': 51,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0048'},
+ {'Date': '2025-03-06',
+  'EmpId': 52,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0049'},
+ {'Date': '2025-03-06', 'EmpId': 53, 'HoursWorked': 0.0, 'Name': 'YUVASHREE'},
+ {'Date': '2025-03-06',
+  'EmpId': 54,
+  'HoursWorked': 0.0,
+  'Name': 'STAFF NAME - 0051'}]
+2025-03-06 17:59:09,547 - INFO - Querying Postgres for employee data
+2025-03-06 17:59:09,549 - INFO - Executing Postgres query to fetch employee details
+2025-03-06 17:59:10,227 - INFO - Query executed successfully. Retrieved 34 rows.
+2025-03-06 17:59:10,227 - INFO - Postgres database connection closed.
+2025-03-06 17:59:10,227 - INFO - Successfully retrieved 34 records.
+2025-03-06 17:59:10,235 - INFO - Query result:
+[(46, 'Noorjahan Beevi'),
+ (29, 'Bharani Dharan'),
+ (32, 'Raam Vignesh'),
+ (10, 'Ganesan'),
+ (36, 'J.Ashwini Mary'),
+ (45, 'Manivel M'),
+ (56, 'Brindha G'),
+ (30, 'Manoj R'),
+ (28, 'R Rathes'),
+ (44, 'Vasanth K'),
+ (39, 'Koushik seshan.S'),
+ (52, 'KIRUTHIKA'),
+ (2, 'Admin'),
+ (50, 'Gopinath B'),
+ (49, 'Dinesh M'),
+ (40, 'Merina Remiya'),
+ (35, 'Asha K'),
+ (38, 'Keshika Anandhi K'),
+ (25, 'Dinesh'),
+ (57, 'Arthi R'),
+ (48, 'Aathira Krishna'),
+ (66, 'Jagadesh'),
+ (27, 'RanjithGanesh J'),
+ (58, 'VIPINXAVIER'),
+ (64, 'ROJAMANI V'),
+ (59, 'Avinash Paul'),
+ (51, 'Ramkumar R'),
+ (61, 'ISAACRAJ SELWN A'),
+ (42, 'S.Veerasenan'),
+ (63, 'Rameshvar Natarajan'),
+ (62, 'Yuvaraj C S'),
+ (26, 'Ruthra Kumar R'),
+ (47, 'Geetha.K'),
+ (65, 'Aravind')]
+2025-03-06 17:59:10,237 - WARNING - Reopening closed Postgres connection.
+2025-03-06 17:59:11,963 - INFO - Connected to PostgreSQL successfully.
+2025-03-06 17:59:11,963 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 1
+2025-03-06 17:59:12,791 - INFO - Found Postgres EmpId: 66 for MSSQL EmpId: 1
+2025-03-06 17:59:12,841 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 2
+2025-03-06 17:59:13,094 - WARNING - No Postgres EmpId found for MSSQL EmpId: 2
+2025-03-06 17:59:13,094 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 3
+2025-03-06 17:59:13,408 - INFO - Found Postgres EmpId: 30 for MSSQL EmpId: 3
+2025-03-06 17:59:13,408 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 4
+2025-03-06 17:59:13,814 - WARNING - No Postgres EmpId found for MSSQL EmpId: 4
+2025-03-06 17:59:13,814 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 5
+2025-03-06 17:59:14,075 - WARNING - No Postgres EmpId found for MSSQL EmpId: 5
+2025-03-06 17:59:14,081 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 6
+2025-03-06 17:59:14,421 - INFO - Found Postgres EmpId: 42 for MSSQL EmpId: 6
+2025-03-06 17:59:14,421 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 7
+2025-03-06 17:59:14,736 - INFO - Found Postgres EmpId: 61 for MSSQL EmpId: 7
+2025-03-06 17:59:14,736 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 8
+2025-03-06 17:59:15,151 - INFO - Found Postgres EmpId: 50 for MSSQL EmpId: 8
+2025-03-06 17:59:15,151 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 9
+2025-03-06 17:59:15,550 - INFO - Found Postgres EmpId: 10 for MSSQL EmpId: 9
+2025-03-06 17:59:15,566 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 10
+2025-03-06 17:59:15,961 - INFO - Found Postgres EmpId: 45 for MSSQL EmpId: 10
+2025-03-06 17:59:15,961 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 11
+2025-03-06 17:59:16,299 - INFO - Found Postgres EmpId: 51 for MSSQL EmpId: 11
+2025-03-06 17:59:16,299 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 12
+2025-03-06 17:59:16,669 - WARNING - No Postgres EmpId found for MSSQL EmpId: 12
+2025-03-06 17:59:16,683 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 13
+2025-03-06 17:59:16,980 - INFO - Found Postgres EmpId: 38 for MSSQL EmpId: 13
+2025-03-06 17:59:16,994 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 14
+2025-03-06 17:59:17,296 - INFO - Found Postgres EmpId: 63 for MSSQL EmpId: 14
+2025-03-06 17:59:17,296 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 15
+2025-03-06 17:59:17,606 - INFO - Found Postgres EmpId: 58 for MSSQL EmpId: 15
+2025-03-06 17:59:17,606 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 16
+2025-03-06 17:59:18,011 - WARNING - No Postgres EmpId found for MSSQL EmpId: 16
+2025-03-06 17:59:18,022 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 17
+2025-03-06 17:59:18,416 - INFO - Found Postgres EmpId: 44 for MSSQL EmpId: 17
+2025-03-06 17:59:18,416 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 18
+2025-03-06 17:59:18,733 - WARNING - No Postgres EmpId found for MSSQL EmpId: 18
+2025-03-06 17:59:18,736 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 19
+2025-03-06 17:59:19,131 - INFO - Found Postgres EmpId: 32 for MSSQL EmpId: 19
+2025-03-06 17:59:19,131 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 20
+2025-03-06 17:59:19,446 - WARNING - No Postgres EmpId found for MSSQL EmpId: 20
+2025-03-06 17:59:19,448 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 21
+2025-03-06 17:59:19,756 - INFO - Found Postgres EmpId: 64 for MSSQL EmpId: 21
+2025-03-06 17:59:19,756 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 22
+2025-03-06 17:59:20,157 - INFO - Found Postgres EmpId: 56 for MSSQL EmpId: 22
+2025-03-06 17:59:20,170 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 23
+2025-03-06 17:59:20,458 - WARNING - No Postgres EmpId found for MSSQL EmpId: 23
+2025-03-06 17:59:20,458 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 24
+2025-03-06 17:59:20,774 - WARNING - No Postgres EmpId found for MSSQL EmpId: 24
+2025-03-06 17:59:20,774 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 25
+2025-03-06 17:59:21,189 - WARNING - No Postgres EmpId found for MSSQL EmpId: 25
+2025-03-06 17:59:21,189 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 26
+2025-03-06 17:59:21,596 - WARNING - No Postgres EmpId found for MSSQL EmpId: 26
+2025-03-06 17:59:21,598 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 27
+2025-03-06 17:59:21,907 - WARNING - No Postgres EmpId found for MSSQL EmpId: 27
+2025-03-06 17:59:21,907 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 28
+2025-03-06 17:59:22,212 - WARNING - No Postgres EmpId found for MSSQL EmpId: 28
+2025-03-06 17:59:22,212 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 29
+2025-03-06 17:59:22,520 - WARNING - No Postgres EmpId found for MSSQL EmpId: 29
+2025-03-06 17:59:22,520 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 30
+2025-03-06 17:59:22,821 - WARNING - No Postgres EmpId found for MSSQL EmpId: 30
+2025-03-06 17:59:22,821 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 31
+2025-03-06 17:59:23,132 - WARNING - No Postgres EmpId found for MSSQL EmpId: 31
+2025-03-06 17:59:23,132 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 32
+2025-03-06 17:59:23,455 - WARNING - No Postgres EmpId found for MSSQL EmpId: 32
+2025-03-06 17:59:23,455 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 33
+2025-03-06 17:59:23,851 - WARNING - No Postgres EmpId found for MSSQL EmpId: 33
+2025-03-06 17:59:23,851 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 34
+2025-03-06 17:59:24,158 - WARNING - No Postgres EmpId found for MSSQL EmpId: 34
+2025-03-06 17:59:24,158 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 35
+2025-03-06 17:59:24,572 - WARNING - No Postgres EmpId found for MSSQL EmpId: 35
+2025-03-06 17:59:24,572 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 36
+2025-03-06 17:59:24,874 - WARNING - No Postgres EmpId found for MSSQL EmpId: 36
+2025-03-06 17:59:24,874 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 37
+2025-03-06 17:59:25,171 - WARNING - No Postgres EmpId found for MSSQL EmpId: 37
+2025-03-06 17:59:25,171 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 38
+2025-03-06 17:59:25,591 - WARNING - No Postgres EmpId found for MSSQL EmpId: 38
+2025-03-06 17:59:25,591 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 39
+2025-03-06 17:59:26,000 - WARNING - No Postgres EmpId found for MSSQL EmpId: 39
+2025-03-06 17:59:26,000 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 40
+2025-03-06 17:59:26,314 - WARNING - No Postgres EmpId found for MSSQL EmpId: 40
+2025-03-06 17:59:26,314 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 41
+2025-03-06 17:59:26,616 - WARNING - No Postgres EmpId found for MSSQL EmpId: 41
+2025-03-06 17:59:26,618 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 42
+2025-03-06 17:59:26,938 - WARNING - No Postgres EmpId found for MSSQL EmpId: 42
+2025-03-06 17:59:26,938 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 43
+2025-03-06 17:59:27,238 - WARNING - No Postgres EmpId found for MSSQL EmpId: 43
+2025-03-06 17:59:27,240 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 44
+2025-03-06 17:59:27,539 - WARNING - No Postgres EmpId found for MSSQL EmpId: 44
+2025-03-06 17:59:27,540 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 45
+2025-03-06 17:59:27,949 - WARNING - No Postgres EmpId found for MSSQL EmpId: 45
+2025-03-06 17:59:27,949 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 46
+2025-03-06 17:59:28,246 - WARNING - No Postgres EmpId found for MSSQL EmpId: 46
+2025-03-06 17:59:28,246 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 47
+2025-03-06 17:59:28,663 - WARNING - No Postgres EmpId found for MSSQL EmpId: 47
+2025-03-06 17:59:28,663 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 48
+2025-03-06 17:59:28,969 - INFO - Found Postgres EmpId: 65 for MSSQL EmpId: 48
+2025-03-06 17:59:28,969 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 49
+2025-03-06 17:59:29,291 - WARNING - No Postgres EmpId found for MSSQL EmpId: 49
+2025-03-06 17:59:29,291 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 50
+2025-03-06 17:59:29,686 - WARNING - No Postgres EmpId found for MSSQL EmpId: 50
+2025-03-06 17:59:29,686 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 51
+2025-03-06 17:59:30,089 - WARNING - No Postgres EmpId found for MSSQL EmpId: 51
+2025-03-06 17:59:30,089 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 52
+2025-03-06 17:59:30,394 - WARNING - No Postgres EmpId found for MSSQL EmpId: 52
+2025-03-06 17:59:30,394 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 53
+2025-03-06 17:59:30,716 - WARNING - No Postgres EmpId found for MSSQL EmpId: 53
+2025-03-06 17:59:30,717 - INFO - Looking up Postgres EmpId for MSSQL EmpId: 54
+2025-03-06 17:59:31,014 - WARNING - No Postgres EmpId found for MSSQL EmpId: 54
+2025-03-06 17:59:31,014 - INFO - Total matched records: 54
+2025-03-06 17:59:31,014 - INFO - MSSQL connection closed.
+2025-03-06 17:59:31,014 - INFO - Postgres connection closed.
